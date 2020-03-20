@@ -8,7 +8,7 @@ navbar:
     - text: "Contenido digital"
       href: about.html
     - text: "Recursos"
-      href: Recursos.html
+      href: recursos.html
 
 output:
   html_document:

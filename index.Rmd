@@ -2,8 +2,8 @@
 title: "Yo támbien me quedo en casa!!!"
 ---
 
-Web, informativa para 1º de primaria!!!
+**Web, informativa para 1ero de primaria!!!**
 
-## Recuerda no estas solo.
+## Recuerda no estas solo, aqui tendras todas las tareas disponibles.
 
-![img](https://agustoenelaugusto.files.wordpress.com/2018/02/educ29-portada-2.jpg?w=1240)
+![](https://agustoenelaugusto.files.wordpress.com/2018/02/educ29-portada-2.jpg?w=1240)
