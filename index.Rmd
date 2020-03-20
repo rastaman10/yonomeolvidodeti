@@ -1,7 +1,7 @@
 ---
-title: "My Website"
+title: "Yo támbien me quedo en casa!!!"
 ---
 
-Hello, Website!
+Web, informativa para 1º de primaria!!!
 
-## Hola a todos bienvenidos a esta web.
+## Recuerda no estas solo.
