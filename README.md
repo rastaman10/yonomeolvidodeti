@@ -1,2 +1,2 @@
 # yonomeolvidodeti
-En esta web recopiló información para ayudar a realizar las tareas a nuestros peques.
+En esta web, recopiló información para ayudar a nuestros peques con sus tareas!!!
