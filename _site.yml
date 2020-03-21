@@ -7,7 +7,7 @@ navbar:
       href: index.html
       
     - text: "Contenido digital"
-      href: contenido digital.html
+      href:  contenido digital.html
       
     - text: "Recursos"
       href: recursos.html
