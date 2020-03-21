@@ -1,4 +1,6 @@
-### Enlaces de interes ###
+---
+title:  Enlaces de interes 
+---
 
 1.**Web interanste para programar jugando**
 [Scratch](https://scratch.mit.edu/)
