@@ -9,6 +9,10 @@ navbar:
       href: about.html
     - text: "Recursos"
       href: recursos.html
+    - text: "Proyectos"
+      href: Proyectos.html  
+      
+      
 
 output:
   html_document:
