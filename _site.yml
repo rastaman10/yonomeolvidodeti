@@ -5,16 +5,21 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+      
     - text: "Contenido digital"
       href: about.html
+      
     - text: "Recursos"
       href: recursos.html
+      
     - text: "Proyectos"
       href: proyectos.html 
+      
     - text: "Programacón semanal"
       href: programación semanal.html 
+      
     - text: "Actividad Física "
-      href: actividad física.html   
+      href: actividad fisica.html   
       
       
 
