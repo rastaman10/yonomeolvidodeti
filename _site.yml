@@ -7,7 +7,7 @@ navbar:
       href: index.html
       
     - text: "Contenido digital"
-      href:  contenido digital.html
+      href:  digital.html
       
     - text: "Recursos"
       href: recursos.html
@@ -19,7 +19,10 @@ navbar:
       href: programación.html 
       
     - text: "Educación Física"
-      href: educación física.html   
+      href: física.html   
+      
+    - text: "Adios"
+      href: adeu.html 
       
 output:
   html_document:
