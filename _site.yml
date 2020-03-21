@@ -18,11 +18,9 @@ navbar:
     - text: "Programación"
       href: programación.html 
       
-    - text: "educación Física "
-      href:  educación física.html   
+    - text: "educación Física"
+      href: educación física.html   
       
-      
-
 output:
   html_document:
     theme: united
