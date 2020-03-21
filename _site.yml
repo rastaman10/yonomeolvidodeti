@@ -10,7 +10,11 @@ navbar:
     - text: "Recursos"
       href: recursos.html
     - text: "Proyectos"
-      href: proyectos.html  
+      href: proyectos.html 
+    - text: "Programacón semanal"
+      href: programacion semanal.html 
+    - text: "Actividad Física "
+      href: actividad física.html   
       
       
 
