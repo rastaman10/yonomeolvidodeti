@@ -1,8 +1,9 @@
 ---
-title: Programación semanal 
+title: Programación semanal   
 ---
+<iframe src="https://giphy.com/embed/jtRWQDY6C4xmlGG56Y" width="180" height="88" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* SEMANA DEL 23 AL 27 DE MARZO
+* SEMANA DEL 23 AL 27 DE MARZO  
 
 [Planning](https://mega.nz/#!IQkHHDLb!aoBW7kUtaClCuSVVcVYUogNM_V4uHZhKuEBOp6MUYdI)
 
