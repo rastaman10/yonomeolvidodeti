@@ -10,8 +10,11 @@ title: Talleres para hacer con mami y papi.
 **Enlace al tutorial.**
 [Tuto](https://es.wikihow.com/hacer-una-balanza-para-ni%C3%B1os)
 
-**Enlace a los  videos tutotiales de esta actividad.**
+**Videos tutotiales de esta actividad.**
 
-1.[Video](https://www.youtube.com/watch?v=-JwnUxJKShI&feature=youtu.be&t=10)
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/-JwnUxJKShI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-2.[Video](https://youtu.be/HQ0by5lByI4)
+
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/HQ0by5lByI4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+

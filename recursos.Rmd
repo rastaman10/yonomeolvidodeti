@@ -15,11 +15,18 @@ title:  Enlaces de interes
 ## Vamos a aprender sumas con llevadas:
 
 Aqui tendremos algunos videos y hojas de ejercicios para hacer en casa:
---
-[Tutorial](https://www.youtube.com/watch?v=k46QCr1GofU)
 
 [Ejercicios para realizar](https://www.edufichas.com/matematicas/sumas-llevando/)
 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/k46QCr1GofU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/KGkXJ8EYdYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+
 ![](https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/66029101_119405252672017_1106109386191684637_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=8uCVEucX5X8AX_E5GyZ&oh=98f651d913a1cb93253440224f08d343&oe=5EBDF9FB)
+
+
+
 
 
