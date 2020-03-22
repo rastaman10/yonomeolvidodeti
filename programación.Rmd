@@ -1,9 +1,11 @@
 ---
 title: Programación semanal   
 ---
-<iframe src="https://giphy.com/embed/jtRWQDY6C4xmlGG56Y" width="180" height="88" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-* SEMANA DEL 23 AL 27 DE MARZO  
+<iframe src="https://giphy.com/embed/jtRWQDY6C4xmlGG56Y" width="180" height="88" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> 
+
+
+<div align="left">* SEMANA DEL 23 AL 27 DE MARZO  
 
 [Planning](https://mega.nz/#!IQkHHDLb!aoBW7kUtaClCuSVVcVYUogNM_V4uHZhKuEBOp6MUYdI)
 
@@ -11,3 +13,5 @@ title: Programación semanal
 * Programación Educativa ofrecida por el Ministerio de Educación
 
 [Enlace a descarga del documento](https://mega.nz/#!AQsXUQwK!EOAtol5oJnk-uCl5PvV13_eq6jpkAjmrMAUDl-3IOfY)
+
+</div>
