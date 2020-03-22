@@ -24,7 +24,7 @@ navbar:
     - text: "Adios"
       href: adeu.html 
       
-    - text: "Ingles"
+    - text: "ingles"
       href: Ingles.html   
       
 output:
