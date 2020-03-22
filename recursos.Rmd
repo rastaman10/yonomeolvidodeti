@@ -12,11 +12,12 @@ title:  Enlaces de interes
 [Storybird](https://storybird.com/)
 
 
-## Vamos a aprender sumas con llevadas:
+## Vamos a aprender sumas con llevadas: 
+
 
 Aqui tendremos algunos videos y hojas de ejercicios para hacer en casa:
 
-[Ejercicios para realizar](https://www.edufichas.com/matematicas/sumas-llevando/)
+[En este enlace, encontraras ejercicios para realizar en casa.](https://www.edufichas.com/matematicas/sumas-llevando/)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/k46QCr1GofU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
