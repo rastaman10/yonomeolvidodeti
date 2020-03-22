@@ -24,6 +24,9 @@ navbar:
     - text: "Adios"
       href: adeu.html 
       
+    - text: "Ingles"
+      href: Ingles.html   
+      
 output:
   html_document:
     theme: united
