@@ -21,11 +21,11 @@ navbar:
     - text: "Educación Física"
       href: física.html   
       
+    - text: "ingles"
+      href: Ingles.html  
+      
     - text: "Adios"
       href: adeu.html 
-      
-    - text: "ingles"
-      href: Ingles.html   
       
 output:
   html_document:
