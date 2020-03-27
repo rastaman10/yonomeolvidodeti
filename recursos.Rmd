@@ -1,15 +1,6 @@
 ---
-title:  Enlaces de interes 
+title:  Sitios de interes  
 ---
-
-1.**Web interanste para programar jugando**
-[Scratch](https://scratch.mit.edu/)
-
-2.**Laboratorio de ciencias**
-[Cernland](http://www.cernland.net/index.php)
-
-3.**Crea cuentos, para darle rienda a esa imaginación**
-[Storybird](https://storybird.com/)
 
 
 ### ESTOS ENLACES SON POSIBILIDADES PARA ENRIQUECER LAS ACTIVIDADES TRABAJADAS.
@@ -41,8 +32,18 @@ El vídeo viene con las fábulas escritas, para poder practicar la lectura.
 **CANCION DE ORTOGRAFIA G**
 [Ortografia](https://youtu.be/s-usCrEjyDU)
 <br>
+<br>
 
+### ENLACES DE INTERES!!!
 
+1.**Web interanste para programar jugando**
+[Scratch](https://scratch.mit.edu/)
+
+2.**Laboratorio de ciencias**
+[Cernland](http://www.cernland.net/index.php)
+
+3.**Crea cuentos, para darle rienda a esa imaginación**
+[Storybird](https://storybird.com/)
 
 ## Vamos a aprender sumas con llevadas: 
 
