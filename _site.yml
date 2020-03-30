@@ -24,11 +24,11 @@ navbar:
     - text: "Ingles"
       href: ingles.html  
       
-    - text: "Adios"
-      href: adeu.html 
-      
     - text: "Aula TEA"
       href: tea.html  
+      
+    - text: "Adios"
+      href: adeu.html
       
 output:
   html_document:
