@@ -27,6 +27,9 @@ navbar:
     - text: "Adios"
       href: adeu.html 
       
+    - text: "Aula TEA"
+      href: tea.html  
+      
 output:
   html_document:
     theme: united
